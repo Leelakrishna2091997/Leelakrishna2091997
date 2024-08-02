@@ -20,18 +20,11 @@
 - 💞️ My passion lies in applying the comprehensive knowledge working on distributed systems and skilled in developing scalable, containerized cloud-based solutions leveraging technologies such as Python, AI, React, Spring Boot, Kubernates and AWS.
 <!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jayantha-nanduri/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:jayantha.nanduri@gmail.com">jayantha.nanduri@gmail.com</a>. I'm open to exploring opportunities for data projects and collaborations! -->
 ## Contact details
-<p style="display: flex;">
-
-
-
-<!-- <b>Connect with me on [![Linkedin: Jayantha Nanduri](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayantha-nanduri/) and let's have a chat!</b> -->
+<p align="center">
 
    [![Linkedin:Venkata LeelaKrishna](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kvleelakrishna/)
 
 [![Gmail:Venkata LeelaKrishna](https://img.shields.io/badge/-kodipunjula.v@northeastern.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kodipunjula.v@northeastern.edu)
-<!-- <b>Connect with me on and let's have a chat!</b>
-<br><i>or</i><br>
-<b>You can reach out to me on  -->
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
