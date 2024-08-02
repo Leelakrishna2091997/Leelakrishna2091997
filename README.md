@@ -24,7 +24,7 @@
 
 
 
-<b>Connect with me on [![Linkedin: Jayantha Nanduri](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayantha-nanduri/) and let's have a chat!</b>
+<!-- <b>Connect with me on [![Linkedin: Jayantha Nanduri](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayantha-nanduri/) and let's have a chat!</b> -->
 
    [![Linkedin:Venkata LeelaKrishna](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kvleelakrishna/)
 
