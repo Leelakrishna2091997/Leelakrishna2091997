@@ -2,7 +2,7 @@
 <h2 align='center'>Hi! I'm Venkata LeelaKrishna Kodipunjula <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A2595&random=false&width=435&lines=Full-Stack+Engineer;Blockchain-Web3+Engineer;Cloud+Engineer;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A2595&random=false&width=435&lines=Full-Stack+Engineer;Blockchain-Web3+Developer;Cloud+Engineer;">
   </a>
 </h1>
 <!-- <h5 align="center">
@@ -13,10 +13,11 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-- 👋 Hi, I’m Jayantha Nanduri currently pursuing Master's in Computer Science at Northeastern University, Boston.
-- 👀 Machine Learning Engineer with 2+ years of experience in Banking and Financial Technology. Skilled in developing scalable, efficient cloud-based Machine Learning projects using Python, PyTorch, Node.js, Docker, Kubernetes, and AWS.
-- 💞️ My passion lies in applying the comprehensive knowledge I've accumulated in machine learning to address real-world challenges effectively. I am particularly interested in integrating machine learning techniques with traditional algorithms to achieve significant performance improvements.
-- 🌱 I’m currently learning about LLMs, RAGs and how to trian them using AWS SageMaker. 
+- 👋 Hi, I'm Leelakrishna, currently pursuing a master's degree in Computer Science at Northeastern University (NEU). 
+
+- 👀 Full Stack Engineer with 4+ years of experience and background in the Financial technology, E-commerce, Supply chain and Crypto industries.
+
+- 💞️ My passion lies in applying the comprehensive knowledge working on distributed systems and skilled in developing scalable, containerized cloud-based solutions leveraging technologies such as Python, AI, React, Spring Boot, Kubernates and AWS.
 <!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jayantha-nanduri/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:jayantha.nanduri@gmail.com">jayantha.nanduri@gmail.com</a>. I'm open to exploring opportunities for data projects and collaborations! -->
 ## Contact details
 <p>
