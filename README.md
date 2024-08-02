@@ -38,37 +38,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaynanduri" alt="Jayantha's streak" />
 </p>
 
-<!-- <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>-->
-
-<!-- ## Trophies
-<details><summary>Discover</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=dileepkanumuri&column=7&theme=gruvbox&no-frame=true"/>
-</details> -->
 
 ## Skills
 
-### Languages
+### Programming Languages
 <p float="left">
-<img alt="Python" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="PYTHON" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JAVASCRIPT" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
 <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
- <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+ 
+ <img alt="SPARK" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
+<img alt="ANGULAR" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
 </p>
                                                                                            
 ### Data Science
