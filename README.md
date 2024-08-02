@@ -20,7 +20,8 @@
 - 💞️ My passion lies in applying the comprehensive knowledge working on distributed systems and skilled in developing scalable, containerized cloud-based solutions leveraging technologies such as Python, AI, React, Spring Boot, Kubernates and AWS.
 <!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jayantha-nanduri/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:jayantha.nanduri@gmail.com">jayantha.nanduri@gmail.com</a>. I'm open to exploring opportunities for data projects and collaborations! -->
 ## Contact details
-<p align="center">
+
+<p float="left">
 
    [![Linkedin:Venkata LeelaKrishna](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kvleelakrishna/)
 
@@ -66,11 +67,12 @@
 </p>
 
 ### Frameworks 
+<p float="left">
 
  <img alt="SPARK" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
 
  <img alt="SPRING BOOT" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-
+</p>
 
 
 ### Web Developer
