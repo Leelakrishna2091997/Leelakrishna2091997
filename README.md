@@ -1,8 +1,8 @@
 <!-- README Intro -->
-<h2 align='center'>Hello! I am Jayantha Nanduri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
+<h2 align='center'>Hi! I'm Venkata LeelaKrishna Kodipunjula <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A2595&random=false&width=435&lines=Machine-learning+Engineer;Data+Engineer;Full-stack+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A2595&random=false&width=435&lines=Full-Stack+Engineer;Blockchain-Web3+Engineer;Cloud+Engineer;">
   </a>
 </h1>
 <!-- <h5 align="center">
