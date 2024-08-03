@@ -31,7 +31,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align="center"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaynanduri&theme=default" alt="Jayantha's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leelakrishna2091997&show_icons=true&theme=radical" alt="Leela's stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaynanduri&theme=default" alt="Jayantha's stats" />
 </p>
 
