@@ -45,19 +45,17 @@
 
 ## Certifications
 
-<div style="display: flex; align-items: center;">
+<table>
+  <tr>
+    <td><b>SOLUTIONS ARCHITECT</b></td>
+    <td><img alt="AWS SOLUTIONS ARCHITECT" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><b>CKAD</b></td>
+    <td><img alt="CKAD" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></td>
+  </tr>
+</table>
 
-  <div style="margin-right: 20px;">
-    <b>SOLUTIONS ARCHITECT</b>
-    <img alt="AWS SOLUTIONS ARCHITECT" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </div>
-
-  <div>
-    <b>CKAD</b>
-    <img alt="CKAD" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </div>
-
-</div>
 
 
 <p float="left">
