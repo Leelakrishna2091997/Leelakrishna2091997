@@ -18,6 +18,7 @@
 - 👀 Full Stack Engineer with 4+ years of experience and background in the Financial technology, E-commerce, Supply chain and Crypto industries.
 
 - 💞️ My passion lies in applying comprehensive knowledge on building distributed systems and skilled in developing scalable, containerized cloud-based solutions leveraging technologies such as Python, AI, React, Spring Boot, Kubernates and AWS.
+- 🌱 I’m currently learning about Web Crawlers, LLMs, RAGs and how to fine tune models, train them using AWS SageMaker.
 <!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jayantha-nanduri/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:jayantha.nanduri@gmail.com">jayantha.nanduri@gmail.com</a>. I'm open to exploring opportunities for data projects and collaborations! -->
 ## Contact details
 
@@ -42,6 +43,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaynanduri" alt="Jayantha's streak" />
 </p>
 
+## Certifications
+
+<p float="left">
+<img alt="AWS SOLUTIONS ARCHITECT" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<div> 
+<b>CKAD</b>
+<img alt="CKAD" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</div>
+
+</p>
 
 ## Skills
 
