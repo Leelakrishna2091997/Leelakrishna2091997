@@ -116,7 +116,7 @@
 <img alt = "SELENIUM" src= "![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ">
 
-<img alt = "SELENIUM" src= "![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)">
+<img alt = "Cypress" src= "https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
 </p>
 
 ### Documentation, Logging Tools
