@@ -162,9 +162,7 @@ https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Ap
 <img alt = "SONAR QUBE" src = "
 https://img.shelds.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD
 ">
-<img alt = "TERRAFORM" src = "
-https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white
-">
+<img alt = "TERRAFORM" src = "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
 <img alt = "CLOUDFLARE" src = "https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
 
 
