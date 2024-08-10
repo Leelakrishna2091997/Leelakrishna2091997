@@ -25,7 +25,10 @@
 
    [![Linkedin:Venkata LeelaKrishna](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kvleelakrishna/)
 
-[![Gmail:Venkata LeelaKrishna](https://img.shields.io/badge/-kodipunjula.v@northeastern.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kodipunjula.v@northeastern.edu)
+[![Gmail:Venkata LeelaKrishna](https://img.shields.io/badge/-kodipunjula.v@northeastern.edu-EA4335?style=flat-square&logo=outlook&logoColor=white)](mailto:kodipunjula.v@northeastern.edu)
+
+
+[![Gmail:Venkata LeelaKrishna](https://img.shields.io/badge/-leelakrishna2091997@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leelakrishna2091997@gmail.com)
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
