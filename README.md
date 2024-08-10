@@ -17,7 +17,7 @@
 
 - 👀 Full Stack Engineer with 4+ years of experience and background in the Financial technology, E-commerce, Supply chain and Crypto industries.
 
-- 💞️ My passion lies in applying the comprehensive knowledge working on distributed systems and skilled in developing scalable, containerized cloud-based solutions leveraging technologies such as Python, AI, React, Spring Boot, Kubernates and AWS.
+- 💞️ My passion lies in applying comprehensive knowledge on building distributed systems and skilled in developing scalable, containerized cloud-based solutions leveraging technologies such as Python, AI, React, Spring Boot, Kubernates and AWS.
 <!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jayantha-nanduri/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:jayantha.nanduri@gmail.com">jayantha.nanduri@gmail.com</a>. I'm open to exploring opportunities for data projects and collaborations! -->
 ## Contact details
 
@@ -45,8 +45,10 @@
 ### Programming Languages
 <p float="left">
 <img alt="PYTHON" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="JAVASCRIPT" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
 <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="JAVASCRIPT" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
+<img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
  
 
 </p>
@@ -70,19 +72,22 @@
 <p float="left">
 
  <!-- <img alt="SPARK" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/> -->
-<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
+<img alt="Apache Spark" src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white"/>
 <img alt="Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-
 
  <img alt="SPRING BOOT" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
 
 
-### Web Developer
+### Web Development
 <p float="left">
 <img alt="ANGULAR" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="React Js" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/>
 <img alt="Nest Js" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/>
+<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 
 <img alt="Next Js" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/>
 <img alt="Fast API" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/>
@@ -94,7 +99,9 @@
 ### Database
 <p float="left">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 
 <img alt="Redis" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
 
@@ -102,10 +109,15 @@
 <img alt="Cassandra" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
 </p>
 
-### Cloud and Hosting
+### Cloud Platforms & Tools
 <p float="left">
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-FFEACA?style=for-the-badge&logo=Amazon&logoColor=white%22"/>
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-4285F4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>                                                                                  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-4285F4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img alt="Netlify" src="  https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
+  
+  
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
