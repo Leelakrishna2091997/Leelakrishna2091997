@@ -24,8 +24,6 @@
 ## Contact details
 
 <p float="left">
- 
-[![Gmail:Venkata LeelaKrishna](https://img.shields.io/badge/-kodipunjula.v@northeastern.edu-EA4335?style=flat-square&logo=outlook&logoColor=white)](mailto:kodipunjula.v@northeastern.edu)
 
 [![Outlook: Venkata LeelaKrishna](https://img.shields.io/badge/-kodipunjula.v@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:kodipunjula.v@northeastern.edu)
 
