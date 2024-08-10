@@ -20,17 +20,16 @@
 - 💞️ My passion lies in applying comprehensive knowledge on building distributed systems and skilled in developing scalable, containerized cloud-based solutions leveraging technologies such as Python, AI, React, Spring Boot, Kubernates and AWS.
 - 🌱 I’m currently learning about Web Crawlers, LLMs, RAGs and how to fine tune models, train them using AWS SageMaker.
 
-Wanted to know more about me and my works? [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://leelakrishna2091997.github.io/Leela-portfolio/)
- 
 <!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jayantha-nanduri/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:jayantha.nanduri@gmail.com">jayantha.nanduri@gmail.com</a>. I'm open to exploring opportunities for data projects and collaborations! -->
 ## Contact details
 
 <p float="left">
-
-   [![Linkedin:Venkata LeelaKrishna](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kvleelakrishna/)
-
+ 
 [![Gmail:Venkata LeelaKrishna](https://img.shields.io/badge/-kodipunjula.v@northeastern.edu-EA4335?style=flat-square&logo=outlook&logoColor=white)](mailto:kodipunjula.v@northeastern.edu)
 
+[![Linkedin:Venkata LeelaKrishna](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kvleelakrishna/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://leelakrishna2091997.github.io/Leela-portfolio/)
 
 [![Gmail:Venkata LeelaKrishna](https://img.shields.io/badge/-leelakrishna2091997@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leelakrishna2091997@gmail.com)
 </p>
