@@ -56,14 +56,6 @@
   </tr>
 </table>
 
-[![Outlook: Venkata LeelaKrishna](https://img.shields.io/badge/-kodipunjula.v@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:kodipunjula.v@northeastern.edu)
-
-[![Linkedin:Venkata LeelaKrishna](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kvleelakrishna/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://leelakrishna2091997.github.io/Leela-portfolio/)
-
-[![Gmail:Venkata LeelaKrishna](https://img.shields.io/badge/-leelakrishna2091997@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leelakrishna2091997@gmail.com)
-</p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
