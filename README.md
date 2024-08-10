@@ -19,6 +19,9 @@
 
 - 💞️ My passion lies in applying comprehensive knowledge on building distributed systems and skilled in developing scalable, containerized cloud-based solutions leveraging technologies such as Python, AI, React, Spring Boot, Kubernates and AWS.
 - 🌱 I’m currently learning about Web Crawlers, LLMs, RAGs and how to fine tune models, train them using AWS SageMaker.
+
+Wanted to know more about me and my works? [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://leelakrishna2091997.github.io/Leela-portfolio/)
+ 
 <!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jayantha-nanduri/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:jayantha.nanduri@gmail.com">jayantha.nanduri@gmail.com</a>. I'm open to exploring opportunities for data projects and collaborations! -->
 ## Contact details
 
