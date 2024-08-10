@@ -27,11 +27,12 @@
 
 <table>
   <tr>
-    <td>
-
-[![Outlook: Venkata LeelaKrishna](https://img.shields.io/badge/-kodipunjula.v@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:kodipunjula.v@northeastern.edu)
-
-    </td>
+  <td> 
+  
+  [![Outlook: Venkata LeelaKrishna](https://img.shields.io/badge/-kodipunjula.v@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:kodipunjula.v@northeastern.edu)
+  
+  </td>
+    
     <td>
 
 [![Linkedin:Venkata LeelaKrishna](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kvleelakrishna/)
