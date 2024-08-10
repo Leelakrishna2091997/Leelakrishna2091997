@@ -42,7 +42,7 @@
 
   <td> 
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://leelakrishna2091997.github.io/Leela-portfolio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://leelakrishna2091997.github.io)
   
   </td>
 
