@@ -156,27 +156,21 @@
 ### Cloud Platforms & Tools
 <p float="left">
 <!-- <img alt = "" src = ""> -->
-<img alt = "AIR FLOW" src = "
-https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white
-">
-<img alt = "SONAR QUBE" src = "
-https://img.shelds.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD
-">
+<img alt = "AIR FLOW" src = "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+<img alt = "SONAR QUBE" src = "https://img.shelds.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD">
 <img alt = "TERRAFORM" src = "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
 <img alt = "CLOUDFLARE" src = "https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
 
 
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-FFEACA?style=for-the-badge&logo=Amazon&logoColor=white%22"/>
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-4285F4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img alt="Netlify" src="  https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
   
   
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img alt = "JENKINS" src = "
-  https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white
-">
+<img alt = "JENKINS" src = "https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 
 </p>
 
