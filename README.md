@@ -13,9 +13,9 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-- 👋 Hi, I'm Leelakrishna, currently pursuing a master's degree in Computer Science at Northeastern University (NEU). 
+- 👋 Hi, I'm Leelakrishna, currently working as SDE II engineer at AWS.
 
-- 👀 Full Stack Engineer with 4+ years of experience and background in the Financial technology, E-commerce, Supply chain and Crypto industries.
+- 👀 Full Stack Engineer with 5+ years of experience and background in the Cloud Infra, Financial technology, E-commerce, Supply chain and Crypto industries.
 
 - 💞️ My passion lies in applying comprehensive knowledge on building distributed systems and skilled in developing scalable, containerized cloud-based solutions leveraging technologies such as Python, AI, React, Spring Boot, Kubernates and AWS.
 - 🌱 I’m currently learning about Web Crawlers, LLMs, RAGs and how to fine tune models, train them using AWS SageMaker.
